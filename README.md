@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Magne Kjellesvik
-- 👀 I’m interested in Python, Java, Kotlin, JS, TS, HTML, CSS and more
+- 👀 I’m interested in Python, Java, Kotlin, Python, JS, TS and more
 - 📫 How to reach me: magnekjellesvik@gmail.com
 
 <!---
